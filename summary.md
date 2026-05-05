@@ -13,3 +13,4 @@ SwiftRide aims to provide a reliable and efficient ride-sharing platform.
 - Secure payment system
 - Driver rating system
 - Ride scheduling
+- Emergency SOS feature
