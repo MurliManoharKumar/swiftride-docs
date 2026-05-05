@@ -7,3 +7,4 @@
 ## Account B
 - Role: Collaborator
 - Environment: WSL/VM
+- Responsibilities: Code management, PR review
